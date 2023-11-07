@@ -4,19 +4,19 @@
 - copy branch master to another branch test : DONE
 - commit and push on newly created branch : DONE
 - merge branch to master : DONE
-- get differing branches between master and test2 :
-- merge branch to master :
-- copy branch test to another branch test2 :
-- stash changes and unstash changes :
-- List branches :
-- Push on test2 :
-- Merge test2 on test :
-- Delete test2 :
-- Make a PR on test2 :
-- Accept the PR on test2 :
-- Create a conflict between test2 and master :
-- Merge test2 on master :
+- get differing branches between master and test2 : DONE
+- merge branch to master : DONE
+- copy branch test to another branch test2 : DONE
+- stash changes and unstash changes : DONE
+- List branches : DONE
+- Push on test2 : DONE
+- Merge test2 on test : DONE
+- Delete test2 : DONE
+- Make a PR on test : DONE
+- Accept the PR on test : DONE
+- Create a conflict between test and master :
+- Merge test on master :
 - Abort merge :
 - Merge test2 on master and make a fusion :
 - Make multiple commits on master and try git cherry-pick to see what happen :
-- Make a commit on test2 and try revert it :
+- Make a commit on test and try revert it :
