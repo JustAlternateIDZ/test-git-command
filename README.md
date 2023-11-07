@@ -3,7 +3,7 @@
 - commit and push : DONE
 - copy branch master to another branch test : DONE
 - commit and push on newly created branch : DONE
-- merge branch to master :
+- merge branch to master : DONE
 - get differing branches between master and test2 :
 - merge branch to master :
 - copy branch test to another branch test2 :
