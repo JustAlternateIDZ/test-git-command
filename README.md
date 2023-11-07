@@ -1,9 +1,10 @@
 # test-git-command
 
 - commit and push : DONE
-- copy branch master to another branch test :
-- commit and push on newly created branch :
-- push in master and get differing branches :
+- copy branch master to another branch test : DONE
+- commit and push on newly created branch : DONE
+- merge branch to master :
+- get differing branches between master and test2 :
 - merge branch to master :
 - copy branch test to another branch test2 :
 - stash changes and unstash changes :
