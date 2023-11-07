@@ -14,9 +14,7 @@
 - Delete test2 : DONE
 - Make a PR on test : DONE
 - Accept the PR on test : DONE
-- Create a conflict between test and master :
-- Merge test on master :
-- Abort merge :
-- Merge test2 on master and make a fusion :
-- Make multiple commits on master and try git cherry-pick to see what happen :
-- Make a commit on test and try revert it :
+- Create a conflict between test and master : DONE
+- Merge test on master and make a rebase : DONE
+- Make multiple commits on master and try git cherry-pick to see what happen : FAILED
+- Make a commit on test and try revert it : DONE
